@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**Taef-alshamrani/Taef-alshamrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Taif Ali Alsharani 
 
-Here are some ideas to get you started:
+As a fresh graduate of a bachelor of Computer Engineering, I am proficient in technical assistance and possess a working knowledge of data science, along with strong programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently at Tuwaiq Data Science and Machine Learning Bootcamp
+- I toke Me Co-Op training at Saudi Space Agency
+
+- Joined Al summer Champions by SDAIA 
+
+
+Through my time i have gain a lot of knowledge
+
+
+
+Hard skills:
+• Programming: Python, C++, SQL.
+
+
+• Tools & Technologies: Alteryx, Git/GitHub, CLI (Command Line Interface).
+
+
+
+• Data Analysis: Data Cleaning, Data Visualization.
+
+
+Soft skills: Problem solving, Teamwork, Communication, Public speaking, and Collaboration. Frameworks: NumPy, Pandas, Matplotlib, Seaborn, and Plotly
