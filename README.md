@@ -26,4 +26,8 @@ Hard skills:
 • Data Analysis: Data Cleaning, Data Visualization.
 
 
-Soft skills: Problem solving, Teamwork, Communication, Public speaking, and Collaboration. Frameworks: NumPy, Pandas, Matplotlib, Seaborn, and Plotly
+Soft skills: Problem solving, Teamwork, Communication, Public speaking, and Collaboration. 
+
+
+
+Frameworks: NumPy, Pandas, Matplotlib, Seaborn, and Plotly
