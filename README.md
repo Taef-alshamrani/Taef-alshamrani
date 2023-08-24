@@ -1,6 +1,6 @@
 ### Hello 👋
 
-### I'm Taif Ali Alsharani 
+### I'm Taif Ali Alshamrani 
 
 As a fresh graduate of a bachelor of Computer Engineering, I am proficient in technical assistance and possess a working knowledge of data science, along with strong programming skills.
 
